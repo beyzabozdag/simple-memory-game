@@ -1,6 +1,5 @@
 
 // global constants
-const clueHoldTime = 1000; //how long to hold each clue's light/sound
 const cluePauseTime = 333; //how long to pause in between clues
 const nextClueWaitTime = 1000; //how long to wait before starting playback of the clue sequence
 
@@ -11,6 +10,7 @@ var gamePlaying = false;
 var tonePlaying = false;
 var volume = 0.5;  //must be between 0.0 and 1.0
 var guessCounter = 0;
+var clueHoldTime = 1000; //how long to hold each clue's light/sound
 
 function randomize(){
   for(let i=0; i<pattern.length;i++){
@@ -62,6 +62,7 @@ function playClueSequence(){
   context.resume()
   let delay = nextClueWaitTime; //set delay to initial wait time
   for(let i=0;i<=progress;i++){ // for each clue that is revealed so far
+    clueHoldTime = clueHoldTime * 0.95;
     console.log("play single clue: " + pattern[i] + " in " + delay + "ms")
     setTimeout(playSingleClue,delay,pattern[i]) // set a timeout to play that clue
     delay += clueHoldTime 
