@@ -39,10 +39,18 @@ The following **additional** features are implemented:
 ## Video Walkthrough (GIF)
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
-![](gif1-link-here)!
-![](gif2-link-here)
-![](gif3-link-here)
-![](gif4-link-here)
+
+Win:
+![win](https://user-images.githubusercontent.com/68226953/161119129-cf701167-652a-4166-930e-81bc738f9a45.gif)
+
+Lose:
+![lose](https://user-images.githubusercontent.com/68226953/161119338-1fed69d1-9ce1-446d-9db9-1e94af7085fa.gif)
+
+Randomized sequence:
+![randomized](https://user-images.githubusercontent.com/68226953/161119440-0ff8c903-7c52-4332-8e7e-13b419b109b8.gif)
+
+Start and End buttons:
+![start_end](https://user-images.githubusercontent.com/68226953/161119539-c978fd84-5bba-4465-a5ff-cb8e60bbf61b.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. <br>
@@ -51,7 +59,7 @@ If you recorded multiple GIFs for all the implemented features, you can add them
 
 
 2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)<br>
-  Balancing school, and other responsibilities and finding the time to create my project was the most challenging aspect of creating this submission. At a first glance, the required tasks and the very small scroll bar made it seem like it would take a lot of time to complete all the necessary steps. But I was eager to complete the pre-task so I chose to start no matter what, even if it meant making really small progress each time. As I was not familiar with Glitch previous to this project, I decided to spare some time to just explore Glitch and how it worked. It took some looking around, creating several projects, and deleting them but in the end, I felt comfortable to start working on the game. The next couple steps were easier than I expected, I simply followed the directions I didn’t run into many problems. That was until I started implementing CSS rules. Because I was using a Glitch starter project, the style sheet already had some style rules which were affecting how my game looked. Rather than trying to understand each one and redesigning things to fit how my submission was supposed to be, I just created a blank style sheet and copied only the selectors needed. The rest of the project flowed easier, but whenever I got stuck or wanted to understand some instruction in greater deal, I would search for it and read more about it. The last part of the project, the submission, is also quite challenging as it requires more presentation, and effective wording skills. It is taking more time than bringing the project together, but I have managed to divide things into subtasks, and handle them one-by-one. Overall, I think I came over the challenges I faced by breaking my task into smaller parts, researching, and asking questions. 
+  Balancing school, and other responsibilities and finding the time to create my project was the most challenging aspect of creating this submission. At a first glance, the required tasks and the very small scroll bar made it seem like it would take a lot of time to complete all the necessary steps. But I was eager to complete the pre-task so I chose to start no matter what, even if it meant making really small progress each time. As I was not familiar with Glitch previous to this project, I decided to spare some time to just explore Glitch and how it worked. It took some looking around, creating several projects, and deleting them but in the end, I felt comfortable to start working on the game. The next couple steps were easier than I expected, I simply followed the directions I didn’t run into many problems. That was until I started implementing CSS rules. Because I was using a Glitch starter project, the style sheet already had some style rules which were affecting how my game looked. Rather than trying to understand each one and redesigning things to fit how my submission was supposed to be, I just created a blank style sheet and copied only the selectors needed. The rest of the project flowed easier, but whenever I got stuck or wanted to understand some instruction in greater deal, I would search for it and read more about it. The last part of the project, the submission, is also quite challenging as it requires more presentation, and effective wording skills. It is taking more time than bringing the project together, but I have managed to divide things into subtasks, and handle them one-by-one. Overall, I think I came over the challenges I faced by breaking my task into smaller parts, researching, and asking questions.
 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)<br>
