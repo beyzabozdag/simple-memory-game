@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
-Win:
-![win](https://user-images.githubusercontent.com/68226953/161119129-cf701167-652a-4166-930e-81bc738f9a45.gif)
+Win:<br>
+![win](https://user-images.githubusercontent.com/68226953/161119129-cf701167-652a-4166-930e-81bc738f9a45.gif = 300x260)
 
 Lose:
 ![lose](https://user-images.githubusercontent.com/68226953/161119338-1fed69d1-9ce1-446d-9db9-1e94af7085fa.gif)
