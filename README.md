@@ -41,15 +41,15 @@ The following **additional** features are implemented:
 If you recorded multiple GIFs for all the implemented features, you can add them here:
 
 Win:<br>
-![win](https://user-images.githubusercontent.com/68226953/161119129-cf701167-652a-4166-930e-81bc738f9a45.gif width="300", height="260")
+![win](https://user-images.githubusercontent.com/68226953/161119129-cf701167-652a-4166-930e-81bc738f9a45.gif)
 
-Lose:
+Lose:<br>
 ![lose](https://user-images.githubusercontent.com/68226953/161119338-1fed69d1-9ce1-446d-9db9-1e94af7085fa.gif)
 
-Randomized sequence:
+Randomized sequence:<br>
 ![randomized](https://user-images.githubusercontent.com/68226953/161119440-0ff8c903-7c52-4332-8e7e-13b419b109b8.gif)
 
-Start and End buttons:
+Start and End buttons:<br>
 ![start_end](https://user-images.githubusercontent.com/68226953/161119539-c978fd84-5bba-4465-a5ff-cb8e60bbf61b.gif)
 
 ## Reflection Questions
