@@ -73,7 +73,7 @@ Start and End buttons:<br>
 
 ## Interview Recording URL Link
 
-[My 5-minute Interview Recording](your-link-here)
+[My 5-minute Interview Recording](https://arizona.zoom.us/rec/share/cE_LvkJM6yn5jUjKQYZgWajccHsN6F8I5XmfuAq97bNBHjTJyLefWtrOGPu5cRHZ.3JHchuZqN8onGvZY?startTime=1648793057000)
 
 
 ## License
