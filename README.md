@@ -4,7 +4,7 @@
 
 Submitted by: **Nimet Beyza Bozdag**
 
-Time spent: **7** hours spent in total
+Time spent: **10** hours spent in total
 
 Link to project: https://strengthened-subsequent-salmon.glitch.me/
 
